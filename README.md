@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me: email phatcharapol2@gmail.com
 - 😄 Pronouns: he/him
-- 🚀 <u><strong>I can always learn new technologies.</strong></u>
+- 🚀 <u>I can always learn new technologies.</u>
 
 <!---
 Ace-Phatcharapol/Ace-Phatcharapol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
